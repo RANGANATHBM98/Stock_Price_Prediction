@@ -1,0 +1,13 @@
+pandas
+numpy
+yfinance
+newsapi-python
+nltk
+vaderSentiment
+tensorflow-cpu; sys_platform == 'linux'
+tensorflow; sys_platform != 'linux'
+scikit-learn
+fastapi
+uvicorn
+pydantic
+python-dotenv
